@@ -42,7 +42,7 @@
     "nuxt": "2.10.2",
     "typescript": "3.7.2",
     "@nuxt/typescript-build": "0.3.10",
-    "node-sass": "4.13.0",
+    "node-sass": "7.0.0",
     "sass-loader": "8.0.0",
     "spectron": "7.0.0",
     "@types/webdriverio": "4.13.3",
